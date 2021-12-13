@@ -1,0 +1,13 @@
+client/MyMapper3.class
+client/ClientMain.class
+run/Main.class
+client/MyReducer.class
+client/MyMapper2.class
+client/MyMapper.class
+shared/Reducer.class
+server/ServerMain.class
+server/AgentServerImpl.class
+client/MyData.class
+shared/Data.class
+shared/AgentServer.class
+shared/Mapper.class
